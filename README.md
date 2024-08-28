@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0283-move-zeroes](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0283-move-zeroes) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Two Pointers
 |  |
 | ------- |
@@ -30,4 +31,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0001-two-sum) |
+| [1016-subarray-sums-divisible-by-k](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [1016-subarray-sums-divisible-by-k](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
