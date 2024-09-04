@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0906-walking-robot-simulation](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0906-walking-robot-simulation) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2132-convert-1d-array-into-2d-array) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0001-two-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0906-walking-robot-simulation](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0906-walking-robot-simulation) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 ## Prefix Sum
 |  |
@@ -56,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0906-walking-robot-simulation](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0906-walking-robot-simulation) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2132-convert-1d-array-into-2d-array) |
