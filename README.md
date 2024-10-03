@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0334-increasing-triplet-subsequence) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0455-assign-cookies) |
+| [0485-max-consecutive-ones](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0485-max-consecutive-ones) |
 | [0890-lemonade-change](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0906-walking-robot-simulation) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
