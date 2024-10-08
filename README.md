@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0485-max-consecutive-ones) |
+| [0724-find-pivot-index](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0740-delete-and-earn) |
 | [0890-lemonade-change](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0906-walking-robot-simulation) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0238-product-of-array-except-self) |
+| [0724-find-pivot-index](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0724-find-pivot-index) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1694-make-sum-divisible-by-p) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1966-frequency-of-the-most-frequent-element) |
