@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0567-permutation-in-string) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1923-sentence-similarity-iii](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1923-sentence-similarity-iii) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Sorting
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0455-assign-cookies) |
 | [0890-lemonade-change](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0890-lemonade-change) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Matrix
 |  |
 | ------- |
@@ -144,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1923-sentence-similarity-iii) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Math
@@ -266,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1497-design-a-stack-with-increment-operation) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
