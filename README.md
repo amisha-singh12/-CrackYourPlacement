@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0283-move-zeroes) |
+| [0443-string-compression](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0567-permutation-in-string) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1486-find-the-distance-value-between-two-arrays) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0214-shortest-palindrome) |
+| [0443-string-compression](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0567-permutation-in-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1483-rank-teams-by-votes](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1483-rank-teams-by-votes) |
