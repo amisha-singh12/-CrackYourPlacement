@@ -1,41 +1,30 @@
-#include <vector>
-#include <unordered_map>
-#include <queue>
-#include <algorithm>
-
-using namespace std;
-
 class Solution {
 public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
-        // Step 1: Create a frequency map
-        unordered_map<int, int> freq;
-        for (int num : nums) {
+        // creating frequency map
+        unordered_map<int , int > freq;
+        for(int num : nums) {
             freq[num]++;
         }
-        
-        // Step 2: Use a priority queue (max-heap) to sort by frequency and handle tie by value
-        // The lambda compares by frequency (greater frequency comes first) and then by value (lower value comes first).
-        auto comp = [&](pair<int, int>& a, pair<int, int>& b) {
-            if (a.second == b.second) {
-                return a.first > b.first; // Ascending order if frequencies are the same
-            }
-            return a.second < b.second;  // Descending order by frequency
-        };
-        
-        // Max-heap to store elements by frequency and value
-        priority_queue<pair<int, int>, vector<pair<int, int>>, decltype(comp)> pq(comp);
-        
-        // Push all elements into the priority queue
-        for (auto& entry : freq) {
-            pq.push({entry.first, entry.second});
+        // storing frequency map in vector of pairs (element , frequnecy)
+        vector<pair<int , int >> freqVector; 
+        // auto& automatically deduces the type of entry based on the type of elements in freq, 
+        // const ensures that the entry is not modified during iteration (you cannot change the key or value).   
+        for (const auto& entry : freq) {
+            freqVector.push_back(entry);
         }
-        
-        // Step 3: Extract the top k elements
+        // sort the vector by frequnecy
+        sort(freqVector.begin(), freqVector.end() , [] (pair<int , int> & a , pair<int , int> &b) {
+            if(a.second == b.second) {
+                return a.first < b.first;
+            }
+            return a.second > b .second;
+        });
+
+         // Step 4: Collect the top k elements
         vector<int> result;
         for (int i = 0; i < k; i++) {
-            result.push_back(pq.top().first);
-            pq.pop();
+            result.push_back(freqVector[i].first);
         }
         
         return result;
