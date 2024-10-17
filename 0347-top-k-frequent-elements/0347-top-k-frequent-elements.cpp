@@ -1,32 +1,34 @@
 class Solution {
 public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
-        // creating frequency map
-        unordered_map<int , int > freq;
-        for(int num : nums) {
-            freq[num]++;
-        }
-        // storing frequency map in vector of pairs (element , frequnecy)
-        vector<pair<int , int >> freqVector; 
-        // auto& automatically deduces the type of entry based on the type of elements in freq, 
-        // const ensures that the entry is not modified during iteration (you cannot change the key or value).   
-        for (const auto& entry : freq) {
-            freqVector.push_back(entry);
-        }
-        // sort the vector by frequnecy
-        sort(freqVector.begin(), freqVector.end() , [] (pair<int , int> & a , pair<int , int> &b) {
-            if(a.second == b.second) {
-                return a.first < b.first;
-            }
-            return a.second > b .second;
-        });
+       int n = nums.size();
 
-         // Step 4: Collect the top k elements
-        vector<int> result;
-        for (int i = 0; i < k; i++) {
-            result.push_back(freqVector[i].first);
-        }
-        
-        return result;
+       unordered_map<int , int> mp;
+       for(int &num : nums ) {
+        mp[num]++;
+       } 
+
+       vector<vector<int>> bucket(n+1);
+    //    here we are taking index as frequency and value as elements
+    // ie bucket[i] = elements having i freq
+    for (auto &it : mp) {
+        int element = it.first;
+        int freq = it.second;
+
+        bucket[freq].push_back(element);
+    }
+    // for result pick elemts from right to left from bucket to find max freq 
+    vector<int>  result;
+    for(int i = n; i >=0 ;i-- ){
+        if(bucket[i].size() == 0)
+          continue;
+
+    while(bucket[i].size() > 0 && k >0){
+        result.push_back(bucket[i].back());
+        bucket[i].pop_back();
+        k--;
+    }
+   }
+   return result;
     }
 };
