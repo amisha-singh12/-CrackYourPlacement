@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0027-remove-element) |
 | [0042-trapping-rain-water](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0042-trapping-rain-water) |
+| [0064-minimum-path-sum](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0740-delete-and-earn](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0740-delete-and-earn) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0064-minimum-path-sum](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0064-minimum-path-sum) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2411-spiral-matrix-iv) |
 ## Simulation
