@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0724-find-pivot-index) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0007-reverse-integer) |
 | [0268-missing-number](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0268-missing-number) |
 | [0390-elimination-game](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0390-elimination-game) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0592-fraction-addition-and-subtraction](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
 | [1013-fibonacci-number](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1951-find-the-winner-of-the-circular-game) |
