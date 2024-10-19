@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2628-minimize-the-maximum-of-two-arrays](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1013-fibonacci-number](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2155-find-missing-observations) |
+| [2628-minimize-the-maximum-of-two-arrays](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Linked List
 |  |
@@ -219,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [2628-minimize-the-maximum-of-two-arrays](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
