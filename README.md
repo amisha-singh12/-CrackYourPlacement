@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [3202-high-access-employees](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/3202-high-access-employees) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1483-rank-teams-by-votes](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1483-rank-teams-by-votes) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [3202-high-access-employees](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/3202-high-access-employees) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1694-make-sum-divisible-by-p](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1694-make-sum-divisible-by-p) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1786-count-the-number-of-consistent-strings) |
+| [3202-high-access-employees](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/3202-high-access-employees) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Prefix Sum
 |  |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3195-separate-black-and-white-balls](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/3195-separate-black-and-white-balls) |
+| [3202-high-access-employees](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/3202-high-access-employees) |
 ## Math
 |  |
 | ------- |
