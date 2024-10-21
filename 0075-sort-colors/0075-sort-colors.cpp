@@ -3,6 +3,8 @@
 class Solution {
 public:
     void sortColors(std::vector<int>& nums) {
+        // dutch national flag algorithm 
+        // we simply are sorting based on comparison taking care of occurences.
         int low = 0, mid = 0, high = nums.size() - 1;
         
         while (mid <= high) {
