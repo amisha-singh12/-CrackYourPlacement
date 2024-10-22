@@ -3,28 +3,21 @@ public:
     void setZeroes(vector<vector<int>>& matrix) {
         int n = matrix.size();
         int m = matrix[0].size();
-        vector<vector<int>> visited = matrix;
+        unordered_set<int> setRows; 
+        unordered_set<int> setColumns; 
         for(int i=0; i<n; i++){
             for(int j=0; j<m; j++){
                 if(matrix[i][j] == 0){
-                    for(int k=0; k<m; k++){
-                        visited[i][k] = 0;
-                    }
+                    setRows.insert(i);
+                    setColumns.insert(j);
                 }
             }
         }
         for(int i=0; i<n; i++){
             for(int j=0; j<m; j++){
-                if(matrix[i][j] == 0){
-                    for(int k=0; k<n; k++){
-                        visited[k][j] = 0;
-                    }
+                if(setRows.count(i) > 0 || setColumns.count(j) > 0){
+                    matrix[i][j] = 0;
                 }
-            }
-        }
-        for(int i=0; i<n; i++){
-            for(int j=0; j<m; j++){
-                matrix[i][j] = visited[i][j];
             }
         }
     }
