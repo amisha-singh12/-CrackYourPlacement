@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0268-missing-number) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1966-frequency-of-the-most-frequent-element) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0007-reverse-integer) |
+| [0069-sqrtx](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0069-sqrtx) |
 | [0268-missing-number](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0268-missing-number) |
 | [0390-elimination-game](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0390-elimination-game) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0453-minimum-moves-to-equal-array-elements) |
