@@ -1,21 +1,12 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        // using boyr moore algo
-      int count =0;
-      int candidate =0 ; 
-      for(int i =0 ; i< nums.size() ; i++){
-
-        if(count == 0 ){
-            candidate = nums[i];
-        }
-        if(nums[i] == candidate) {
-            count++;
-        }
-        else{
-            count--;
-        }
-    }
-      return candidate; 
+       unordered_map<int , int > mpp;
+       for(int num : nums){
+        mpp[num]++;
+        if(mpp[num] > (nums.size())/2)
+         return num;
+       }
+    return -1; 
     }
 };
