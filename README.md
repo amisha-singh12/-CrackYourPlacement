@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1483-rank-teams-by-votes](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1483-rank-teams-by-votes) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1923-sentence-similarity-iii](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1923-sentence-similarity-iii) |
