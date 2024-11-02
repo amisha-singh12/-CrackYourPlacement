@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0567-permutation-in-string) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0392-is-subsequence](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0392-is-subsequence) |
 | [0740-delete-and-earn](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0740-delete-and-earn) |
 | [1013-fibonacci-number](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
 | [1511-count-number-of-teams](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1511-count-number-of-teams) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0005-longest-palindromic-substring) |
 | [0214-shortest-palindrome](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0214-shortest-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
