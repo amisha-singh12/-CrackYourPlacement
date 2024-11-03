@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0443-string-compression) |
 | [0567-permutation-in-string](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
+| [0812-rotate-string](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0812-rotate-string) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1483-rank-teams-by-votes](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1483-rank-teams-by-votes) |
@@ -330,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0214-shortest-palindrome](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0214-shortest-palindrome) |
+| [0812-rotate-string](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0812-rotate-string) |
 ## Hash Function
 |  |
 | ------- |
