@@ -1,27 +1,26 @@
-#include <vector>
-#include <algorithm>
-using namespace std;
-
 class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
-        // Step 1: Sort intervals by their start times
-        sort(intervals.begin(), intervals.end());
-        
-        // Step 2: Initialize a result vector to store merged intervals
-        vector<vector<int>> merged;
-        
-        // Step 3: Iterate through sorted intervals
-        for (const auto& interval : intervals) {
-            // If merged is empty or there's no overlap, add the interval
-            if (merged.empty() || merged.back()[1] < interval[0]) {
-                merged.push_back(interval);
-            } else {
-                // If there's an overlap, merge the intervals by updating the end time
-                merged.back()[1] = max(merged.back()[1], interval[1]);
-            }
-        }
-        
-        return merged;
+      int n = intervals.size();
+      sort(intervals.begin() , intervals.end());
+      vector<vector<int>> merged;
+      for(int i = 0 ; i < n ; i++){
+       int start = intervals[i][0];
+       int end = intervals[i][1];
+
+       if(!merged.empty() && end <= merged.back()[1]) {
+        continue;
+       }
+       for(int j = i+1 ; j<n ; j++){
+         if(intervals[j][0] <= end){
+            end = max(end, intervals[j][1]);
+         }
+         else{
+            break;
+         }
+       }
+       merged.push_back({start ,end});
+      }
+      return merged;  
     }
 };
