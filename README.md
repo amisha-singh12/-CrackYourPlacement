@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2411-spiral-matrix-iv](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2716-prime-subtraction-operation](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
 | [3202-high-access-employees](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/3202-high-access-employees) |
 | [3291-find-if-array-can-be-sorted](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/3291-find-if-array-can-be-sorted) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -162,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2716-prime-subtraction-operation](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/3195-separate-black-and-white-balls) |
 ## Matrix
 |  |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2628-minimize-the-maximum-of-two-arrays](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2628-minimize-the-maximum-of-two-arrays) |
+| [2716-prime-subtraction-operation](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
 ## String
 |  |
 | ------- |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1951-find-the-winner-of-the-circular-game](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2155-find-missing-observations](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2155-find-missing-observations) |
 | [2628-minimize-the-maximum-of-two-arrays](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2628-minimize-the-maximum-of-two-arrays) |
+| [2716-prime-subtraction-operation](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Linked List
 |  |
@@ -265,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2628-minimize-the-maximum-of-two-arrays](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2628-minimize-the-maximum-of-two-arrays) |
+| [2716-prime-subtraction-operation](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Recursion
 |  |
