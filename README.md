@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2155-find-missing-observations](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2155-find-missing-observations) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2411-spiral-matrix-iv](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2411-spiral-matrix-iv) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1483-rank-teams-by-votes](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1483-rank-teams-by-votes) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1966-frequency-of-the-most-frequent-element) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2179-most-beautiful-item-for-each-query) |
 | [3202-high-access-employees](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/3202-high-access-employees) |
 | [3291-find-if-array-can-be-sorted](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/3291-find-if-array-can-be-sorted) |
 ## Dynamic Programming
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1486-find-the-distance-value-between-two-arrays) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
+| [2179-most-beautiful-item-for-each-query](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2628-minimize-the-maximum-of-two-arrays](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2628-minimize-the-maximum-of-two-arrays) |
 | [2716-prime-subtraction-operation](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
 ## String
