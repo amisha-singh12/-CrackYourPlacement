@@ -254,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0206-reverse-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0725-split-linked-list-in-parts) |
 | [1484-linked-list-in-binary-tree](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1484-linked-list-in-binary-tree) |
 | [2411-spiral-matrix-iv](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2411-spiral-matrix-iv) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0206-reverse-linked-list) |
 | [0390-elimination-game](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0390-elimination-game) |
 | [1013-fibonacci-number](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1951-find-the-winner-of-the-circular-game) |
