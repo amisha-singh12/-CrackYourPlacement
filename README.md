@@ -139,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0740-delete-and-earn) |
 | [1013-fibonacci-number](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
 | [1511-count-number-of-teams](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1511-count-number-of-teams) |
+| [2562-count-ways-to-build-good-strings](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2562-count-ways-to-build-good-strings) |
 ## Hash Table
 |  |
 | ------- |
