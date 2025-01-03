@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
+| [0234-palindrome-linked-list](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
 | [0392-is-subsequence](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0392-is-subsequence) |
@@ -284,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0725-split-linked-list-in-parts](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0725-split-linked-list-in-parts) |
 | [0908-middle-of-the-linked-list](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0908-middle-of-the-linked-list) |
 | [1484-linked-list-in-binary-tree](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1484-linked-list-in-binary-tree) |
@@ -322,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0390-elimination-game](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0390-elimination-game) |
 | [1013-fibonacci-number](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -417,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0042-trapping-rain-water) |
+| [0234-palindrome-linked-list](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1002-maximum-width-ramp) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1497-design-a-stack-with-increment-operation) |
