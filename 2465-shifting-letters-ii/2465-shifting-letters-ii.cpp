@@ -32,6 +32,8 @@ public:
         if(shift < 0){
             shift += 26 ; //to wrap around
         }
+        // s[i] - 'a' = value
+        // value - 'a' = character
         s[i] = (((s[i] -'a' ) + shift) % 26) + 'a';        
     }
    return s;
