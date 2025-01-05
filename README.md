@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2179-most-beautiful-item-for-each-query](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2358-number-of-ways-to-split-array](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2358-number-of-ways-to-split-array) |
 | [2411-spiral-matrix-iv](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2411-spiral-matrix-iv) |
+| [2465-shifting-letters-ii](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2691-count-vowel-strings-in-ranges) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2358-number-of-ways-to-split-array](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2358-number-of-ways-to-split-array) |
+| [2465-shifting-letters-ii](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2465-shifting-letters-ii) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Greedy
 |  |
@@ -255,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2465-shifting-letters-ii](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2465-shifting-letters-ii) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2494-sum-of-prefix-scores-of-strings) |
 | [2580-circular-sentence](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2580-circular-sentence) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2691-count-vowel-strings-in-ranges) |
