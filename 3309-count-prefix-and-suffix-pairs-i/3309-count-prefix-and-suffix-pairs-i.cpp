@@ -1,30 +1,83 @@
-#include <vector>
-#include <string>
+struct trieNode {
+    trieNode* children[26];
+    bool isEndOfWord;
 
-using namespace std;
+    // Constructor to initialize the node
+    trieNode() {
+        isEndOfWord = false;
+        for (int i = 0; i < 26; i++) {
+            children[i] = NULL;
+        }
+    }
+};
+
+trieNode* getNode() { // Fix the missing parentheses
+    return new trieNode();
+}
+
+class Trie {
+public:
+    trieNode* root;
+
+    Trie() {
+        root = getNode();
+    }
+
+    void insert(string word) {
+        trieNode* pCrawl = root;
+        for (int i = 0; i < word.length(); i++) {
+            int idx = word[i] - 'a';
+            if (pCrawl->children[idx] == NULL) {
+                pCrawl->children[idx] = getNode();
+            }
+            pCrawl = pCrawl->children[idx];
+        }
+        pCrawl->isEndOfWord = true;
+    }
+
+    bool searchPrefix(string prefix) {
+        trieNode* pCrawl = root;
+        for (int i = 0; i < prefix.length(); i++) {
+            int idx = prefix[i] - 'a';
+            if (pCrawl->children[idx] == NULL) {
+                return false;
+            }
+            pCrawl = pCrawl->children[idx];
+        }
+        return true;
+    }
+};
 
 class Solution {
 public:
-    bool isPrefixAndSuffix(const string& str1, const string& str2) {
-        // Check if str1 is both a prefix and a suffix of str2
-        int n = str1.length();
-        int m = str2.length();
-        if (n > m) return false; // str1 cannot be a prefix and suffix if it's longer than str2
-        return str2.substr(0, n) == str1 && str2.substr(m - n, n) == str1;
-    }
-
     int countPrefixSuffixPairs(vector<string>& words) {
-        int count = 0;
         int n = words.size();
+        int count = 0;
 
-        for (int i = 0; i < n; ++i) {
-            for (int j = i + 1; j < n; ++j) {
-                if (isPrefixAndSuffix(words[i], words[j])) {
-                    ++count;
+        for (int j = 0; j < n; j++) {
+            Trie prefixTrie;
+            Trie suffixTrie;
+
+            prefixTrie.insert(words[j]);
+            string reversed = words[j];
+            reverse(begin(reversed), end(reversed));
+
+            suffixTrie.insert(reversed);
+
+            for (int i = 0; i < j; i++) {
+                if (words[i].length() > words[j].length()) {
+                    continue;
+                }
+                string rev = words[i];
+                reverse(begin(rev), end(rev));
+
+                if (prefixTrie.searchPrefix(words[i]) &&
+                    suffixTrie.searchPrefix(rev)) {
+                    count++;
                 }
             }
         }
-        
+
         return count;
     }
 };
