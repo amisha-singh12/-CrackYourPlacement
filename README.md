@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0740-delete-and-earn) |
 | [0890-lemonade-change](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0890-lemonade-change) |
 | [0906-walking-robot-simulation](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0906-walking-robot-simulation) |
+| [0952-word-subsets](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0952-word-subsets) |
 | [1002-maximum-width-ramp](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1002-maximum-width-ramp) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1256-rank-transform-of-an-array](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1256-rank-transform-of-an-array) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0567-permutation-in-string) |
 | [0740-delete-and-earn](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0740-delete-and-earn) |
 | [0906-walking-robot-simulation](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0906-walking-robot-simulation) |
+| [0952-word-subsets](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0952-word-subsets) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1256-rank-transform-of-an-array](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -253,6 +255,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0567-permutation-in-string](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0567-permutation-in-string) |
 | [0592-fraction-addition-and-subtraction](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0592-fraction-addition-and-subtraction) |
 | [0812-rotate-string](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0812-rotate-string) |
+| [0952-word-subsets](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1483-rank-teams-by-votes](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1483-rank-teams-by-votes) |
