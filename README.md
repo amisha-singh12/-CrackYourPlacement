@@ -180,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1786-count-the-number-of-consistent-strings](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [3202-high-access-employees](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/3202-high-access-employees) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Prefix Sum
 |  |
@@ -283,6 +284,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3202-high-access-employees](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/3202-high-access-employees) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3451-string-compression-iii](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/3451-string-compression-iii) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Math
 |  |
 | ------- |
@@ -384,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2494-sum-of-prefix-scores-of-strings](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2494-sum-of-prefix-scores-of-strings) |
+| [3455-minimum-length-of-string-after-operations](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Brainteaser
 |  |
 | ------- |
