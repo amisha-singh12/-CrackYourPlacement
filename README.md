@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0322-coin-change) |
 | [0334-increasing-triplet-subsequence](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0322-coin-change](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0392-is-subsequence) |
 | [0740-delete-and-earn](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0740-delete-and-earn) |
 | [1013-fibonacci-number](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
@@ -336,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0322-coin-change](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0322-coin-change) |
 | [1484-linked-list-in-binary-tree](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1484-linked-list-in-binary-tree) |
 ## Binary Tree
 |  |
