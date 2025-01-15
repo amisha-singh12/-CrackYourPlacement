@@ -214,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1966-frequency-of-the-most-frequent-element](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
+| [2509-minimize-xor](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2509-minimize-xor) |
 | [2716-prime-subtraction-operation](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/3195-separate-black-and-white-balls) |
 ## Matrix
@@ -377,6 +378,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1940-maximum-xor-for-each-query](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1940-maximum-xor-for-each-query) |
 | [2059-unique-length-3-palindromic-subsequences](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+| [2509-minimize-xor](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2509-minimize-xor) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3291-find-if-array-can-be-sorted](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/3291-find-if-array-can-be-sorted) |
 | [3394-minimum-array-end](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/3394-minimum-array-end) |
