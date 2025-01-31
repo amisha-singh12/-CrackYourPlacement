@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0062-unique-paths) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0022-generate-parentheses) |
 | [0214-shortest-palindrome](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0214-shortest-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0392-is-subsequence) |
@@ -521,6 +523,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0039-combination-sum) |
 | [0051-n-queens](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0052-n-queens-ii) |
