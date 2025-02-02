@@ -1,27 +1,39 @@
 class Solution {
 public:
-    string getPermutation(int n, int k) {
-        vector<int> nums;
-        int fact = 1;
-        
-        // Initialize the numbers and compute (n-1)!
-        for (int i = 1; i <= n; i++) {
-            nums.push_back(i);
-            fact *= i;  // Compute n!
+    int count = 0;  // To track how many permutations we have generated
+    string ans = ""; // Store the k-th permutation
+
+    void solve(vector<int>& nums, vector<bool>& used, string& temp, int n, int k) {
+        if (temp.size() == n) { // Base case: complete permutation
+            count++;
+            if (count == k) { // If it's the k-th permutation, store it
+                ans = temp;
+            }
+            return;
         }
 
-        k--;  // Convert k to 0-based index
-        string result;
-        
-        // Compute each digit of the permutation
-        for (int i = n; i >= 1; i--) {
-            fact /= i;  // Compute (i-1)!
-            int index = k / fact;
-            result += to_string(nums[index]);  // Select the number
-            nums.erase(nums.begin() + index);  // Remove used number
-            k %= fact;  // Reduce k
+        for (int i = 0; i < n; i++) {
+            if (!used[i]) {  // If number is not used in current permutation
+                used[i] = true;
+                temp += to_string(nums[i]);  // Add number to permutation
+                solve(nums, used, temp, n, k); // Recursive call
+                
+                if (!ans.empty()) return; // Stop recursion if answer found
+                
+                temp.pop_back(); // Backtrack: remove last character
+                used[i] = false; // Mark number as unused
+            }
         }
+    }
+
+    string getPermutation(int n, int k) {
+        vector<int> nums;
+        for (int i = 1; i <= n; i++) nums.push_back(i); // Fill numbers 1 to n
+        vector<bool> used(n, false); // Keep track of used numbers
+        string temp = ""; // Current permutation
         
-        return result;
+        solve(nums, used, temp, n, k);
+        return ans;
     }
 };
+
