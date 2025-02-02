@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0131-palindrome-partitioning](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
 | [0322-coin-change](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0392-is-subsequence) |
 | [0740-delete-and-earn](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0740-delete-and-earn) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0005-longest-palindromic-substring) |
 | [0022-generate-parentheses](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
 | [0214-shortest-palindrome](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0214-shortest-palindrome) |
 | [0387-first-unique-character-in-a-string](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0392-is-subsequence) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0052-n-queens-ii](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0052-n-queens-ii) |
 | [0078-subsets](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
 ## Merge Sort
 |  |
 | ------- |
