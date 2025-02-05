@@ -1,10 +1,21 @@
 class Solution {
 public:
     int singleNonDuplicate(vector<int>& nums) {
-        int ans = 0;;
-        for(int i =0 ; i < nums.size() ; i++){
-            ans = ans ^ nums[i];
+       int  s = 0 , e = nums.size()-1;
+       while(s < e){
+        int mid = s +(e-s)/2;
+        if(mid % 2 == 1) mid--;
+
+        if(nums[mid] != nums[mid+1]){
+            // mtlb it will be on the left side
+            e = mid;
         }
-        return ans;
+        else{
+            // ie it would be on the right side
+            s = mid+2;
+            // +2 coz we want to skip both lements pairs
+        }
+       }
+       return nums[s];
     }
 };
