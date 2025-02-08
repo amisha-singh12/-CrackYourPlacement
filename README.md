@@ -459,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1497-design-a-stack-with-increment-operation](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1497-design-a-stack-with-increment-operation) |
 ## Binary Search Tree
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0042-trapping-rain-water) |
+| [0225-implement-stack-using-queues](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1002-maximum-width-ramp](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1002-maximum-width-ramp) |
@@ -531,6 +533,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0387-first-unique-character-in-a-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Bucket Sort
