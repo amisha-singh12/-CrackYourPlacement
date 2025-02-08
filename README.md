@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0005-longest-palindromic-substring) |
+| [0020-valid-parentheses](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
 | [0214-shortest-palindrome](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0214-shortest-palindrome) |
@@ -504,6 +505,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0042-trapping-rain-water) |
 | [0225-implement-stack-using-queues](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0234-palindrome-linked-list) |
