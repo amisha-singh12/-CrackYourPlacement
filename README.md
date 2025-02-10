@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2155-find-missing-observations](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2155-find-missing-observations) |
 | [2411-spiral-matrix-iv](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2411-spiral-matrix-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/3447-clear-digits) |
 ## Binary Search
 |  |
 | ------- |
@@ -317,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3195-separate-black-and-white-balls](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/3195-separate-black-and-white-balls) |
 | [3202-high-access-employees](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/3202-high-access-employees) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3447-clear-digits](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/3447-clear-digits) |
 | [3451-string-compression-iii](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/3451-string-compression-iii) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/3455-minimum-length-of-string-after-operations) |
 ## Math
@@ -523,6 +525,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3447-clear-digits](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/3447-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
