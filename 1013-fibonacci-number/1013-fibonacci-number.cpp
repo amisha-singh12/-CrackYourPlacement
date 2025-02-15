@@ -1,14 +1,15 @@
 class Solution {
 public:
+// constant space complexity
+// time complexity o(n)
     int fib(int n) {
-        //  base case
-        if(n ==0)
-         return 0;
-
-        if(n == 1)
-         return 1; 
-
-        int ans = fib(n-1) + fib(n-2) ;
-        return ans;  
+        if(n <= 1) return  n ;
+        int a =0 ,b =1 ;
+        int c ;
+        for(int i = 1 ; i <n ; i++ ){
+            c =a+b;
+            a = b , b =c;
+        }
+        return c;
     }
 };
