@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0238-product-of-array-except-self) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0198-house-robber) |
+| [0213-house-robber-ii](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0213-house-robber-ii) |
 | [0322-coin-change](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0392-is-subsequence) |
 | [0740-delete-and-earn](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0740-delete-and-earn) |
