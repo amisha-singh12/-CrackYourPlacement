@@ -1,19 +1,17 @@
 class Solution {
 public:
+// constant space (kadanes algo)
     int maxProduct(vector<int>& nums) {
         int n = nums.size();
-        vector<int> dp_max(n), dp_min(n);
-
-        dp_max[0] = dp_min[0] = nums[0];
-        int result = nums[0];
+        int maxProd = nums[0], minProd = nums[0], result = nums[0];
 
         for (int i = 1; i < n; i++) {
-            if (nums[i] < 0) swap(dp_max[i - 1], dp_min[i - 1]);
+            if (nums[i] < 0) swap(maxProd, minProd);
 
-            dp_max[i] = max(nums[i], dp_max[i - 1] * nums[i]);
-            dp_min[i] = min(nums[i], dp_min[i - 1] * nums[i]);
+            maxProd = max(nums[i], maxProd * nums[i]);
+            minProd = min(nums[i], minProd * nums[i]);
 
-            result = max(result, dp_max[i]);
+            result = max(result, maxProd);
         }
 
         return result;
