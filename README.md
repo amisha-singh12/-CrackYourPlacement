@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0540-single-element-in-a-sorted-array) |
+| [0646-maximum-length-of-pair-chain](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0646-maximum-length-of-pair-chain) |
 | [0724-find-pivot-index](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0724-find-pivot-index) |
 | [0740-delete-and-earn](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0740-delete-and-earn) |
 | [0890-lemonade-change](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0890-lemonade-change) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0347-top-k-frequent-elements) |
 | [0455-assign-cookies](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0455-assign-cookies) |
+| [0646-maximum-length-of-pair-chain](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0646-maximum-length-of-pair-chain) |
 | [1256-rank-transform-of-an-array](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1256-rank-transform-of-an-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1483-rank-teams-by-votes](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1483-rank-teams-by-votes) |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
 | [0322-coin-change](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0392-is-subsequence) |
+| [0646-maximum-length-of-pair-chain](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0646-maximum-length-of-pair-chain) |
 | [0740-delete-and-earn](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0740-delete-and-earn) |
 | [1013-fibonacci-number](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
 | [1511-count-number-of-teams](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1511-count-number-of-teams) |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0334-increasing-triplet-subsequence) |
 | [0455-assign-cookies](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0455-assign-cookies) |
+| [0646-maximum-length-of-pair-chain](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0646-maximum-length-of-pair-chain) |
 | [0890-lemonade-change](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1502-construct-k-palindrome-strings](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1502-construct-k-palindrome-strings) |
