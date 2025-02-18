@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0169-majority-element) |
 | [0198-house-robber](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0213-house-robber-ii) |
@@ -178,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0131-palindrome-partitioning](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0131-palindrome-partitioning) |
+| [0152-maximum-product-subarray](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0152-maximum-product-subarray) |
 | [0198-house-robber](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0213-house-robber-ii) |
 | [0300-longest-increasing-subsequence](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0300-longest-increasing-subsequence) |
