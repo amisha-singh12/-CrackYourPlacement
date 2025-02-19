@@ -189,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0740-delete-and-earn](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0740-delete-and-earn) |
 | [1013-fibonacci-number](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1013-fibonacci-number) |
 | [1129-longest-string-chain](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1129-longest-string-chain) |
+| [1250-longest-common-subsequence](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1250-longest-common-subsequence) |
 | [1511-count-number-of-teams](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1511-count-number-of-teams) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2562-count-ways-to-build-good-strings](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2562-count-ways-to-build-good-strings) |
@@ -320,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0952-word-subsets) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1129-longest-string-chain](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1129-longest-string-chain) |
+| [1250-longest-common-subsequence](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1483-rank-teams-by-votes](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1483-rank-teams-by-votes) |
 | [1502-construct-k-palindrome-strings](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1502-construct-k-palindrome-strings) |
