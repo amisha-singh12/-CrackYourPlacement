@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1511-count-number-of-teams](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1511-count-number-of-teams) |
 | [1524-string-matching-in-an-array](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1524-string-matching-in-an-array) |
 | [1620-check-if-array-pairs-are-divisible-by-k](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1620-check-if-array-pairs-are-divisible-by-k) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1694-make-sum-divisible-by-p](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1694-make-sum-divisible-by-p) |
 | [1755-defuse-the-bomb](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1755-defuse-the-bomb) |
@@ -161,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1468-check-if-n-and-its-double-exist](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1483-rank-teams-by-votes](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1483-rank-teams-by-votes) |
 | [1486-find-the-distance-value-between-two-arrays](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1486-find-the-distance-value-between-two-arrays) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-longest-string-chain](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1129-longest-string-chain) |
 | [1250-longest-common-subsequence](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1250-longest-common-subsequence) |
 | [1511-count-number-of-teams](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1511-count-number-of-teams) |
+| [1669-minimum-cost-to-cut-a-stick](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/1669-minimum-cost-to-cut-a-stick) |
 | [2022-maximum-alternating-subsequence-sum](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2022-maximum-alternating-subsequence-sum) |
 | [2562-count-ways-to-build-good-strings](https://github.com/amisha-singh12/-CrackYourPlacement/tree/master/2562-count-ways-to-build-good-strings) |
 ## Hash Table
